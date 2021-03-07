@@ -4,6 +4,8 @@ import "fmt"
 
 func main() {
 	fmt.Println("nihao")
+	fmt.Println("hahaha")
+
 }
 
 
